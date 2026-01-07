@@ -1,29 +1,29 @@
-# 🖥️ AI 부트캠프 22기 (Upstage x FastCampus)
+## 🖥️ AI 부트캠프 22기 (Upstage x FastCampus)
 
 > **대한민국 최고의 AI 기업 Upstage**와 **Life Changing Education 패스트캠퍼스**가 만나 최고의 AI 인재를 양성하는 집중 교육 과정입니다.
 
 ---
 
-## 📅 교육 기간
+### 📅 교육 기간
 * **Period:** 2025.11.17 ~ 2026.06.26
 
 ---
 
-## 📚 Curriculum & Progress
+### 📚 Curriculum & Progress
 
 현재 학습 진행 상황을 관리하는 커리큘럼 리스트입니다.
 
-### ✅ Done (학습 완료)
+#### ✅ Done (학습 완료)
 - [x] **[FastCampus]** Python
 - [x] **[FastCampus]** Statistic
 - [x] **[FastCampus]** Computer Science
 - [x] **[FastCampus]** Git
 - [x] **[Upstage]** Machine Learning Basic/Advanced
 
-### 🏃 Ing (진행 중)
+#### 🏃 Ing (진행 중)
 - [ ] **[Upstage]** Machine Learning Regression Competition
 
-### 🚀 Upcoming (진행 예정)
+#### 🚀 Upcoming (진행 예정)
 - [ ] **[Upstage]** Pytorch
 - [ ] **[Upstage]** ML & MLOps
 - [ ] **[Upstage]** Deep Learning
@@ -51,13 +51,13 @@
 
 ---
 
-## 🎇 Appendix
+### 🎇 Appendix
 * **AI Bootcamp Introduction:** [상세 소개 페이지 바로가기](https://kernel.fastcampus.co.kr/180_ai)
 * **Inquiry:** ✉️ [help.edu@fastcampus.co.kr](mailto:help.edu@fastcampus.co.kr)
 
 ---
 
-## 🧑‍💻 Partners
+### 🧑‍💻 Partners
 | **Upstage** | **FastCampus** |
 | :---: | :---: |
 | Global Top 기업 출신 전문가 팀 | 55개 이상의 교육과정 운영 노하우 |
