@@ -1,11 +1,11 @@
-# 🖥️ AI 부트캠프 13기 (Upstage x FastCampus)
+# 🖥️ AI 부트캠프 22기 (Upstage x FastCampus)
 
 > **대한민국 최고의 AI 기업 Upstage**와 **Life Changing Education 패스트캠퍼스**가 만나 최고의 AI 인재를 양성하는 집중 교육 과정입니다.
 
 ---
 
 ## 📅 교육 기간
-* **Period:** 2025.03.24 ~ 2025.10.31
+* **Period:** 2025.11.17 ~ 2026.06.26
 
 ---
 
@@ -20,13 +20,15 @@
 - [x] **[FastCampus]** Git
 - [x] **[Upstage]** Machine Learning Basic/Advanced
 - [x] **[Upstage]** Machine Learning Regression Competition
-- [x] **[Upstage]** ML & MLOps
-- [x] **[Upstage]** Deep Learning
 
 ### 🏃 Ing (진행 중)
-- [ ] **[Upstage]** Pytorch
+- [ ] **[Upstage]** Machine Learning Regression Competition
 
 ### 🚀 Upcoming (진행 예정)
+- [ ] **[Upstage]** Pytorch
+- [ ] **[Upstage]** ML & MLOps
+- [ ] **[Upstage]** Deep Learning
+
 #### 👁️ Computer Vision
 - [ ] Computer Vision Basic / Advanced
 - [ ] Computer Vision Generation
