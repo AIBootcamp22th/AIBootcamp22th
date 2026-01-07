@@ -19,7 +19,6 @@
 - [x] **[FastCampus]** Computer Science
 - [x] **[FastCampus]** Git
 - [x] **[Upstage]** Machine Learning Basic/Advanced
-- [x] **[Upstage]** Machine Learning Regression Competition
 
 ### 🏃 Ing (진행 중)
 - [ ] **[Upstage]** Machine Learning Regression Competition
